@@ -19,7 +19,7 @@ public class NumberStatistics {
         return this.amountOfNumbers;
     }
 
-    public int getSum() {
+    public int sum() {
         return this.sum;
     }
 

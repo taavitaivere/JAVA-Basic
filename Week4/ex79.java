@@ -8,5 +8,7 @@ public class ex79 {
         stats.addNumbers(1);
         stats.addNumbers(2);
         System.out.println("Amount: " + stats.getAmountOfNumbers());
+        System.out.println("sum: " + stats.sum());
+        System.out.println("average: " + stats.average());
     }
 }
